@@ -1,0 +1,18 @@
+{
+    "name": "smith/derivative",
+    "type": "l",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smith\\Derivative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saman",
+            "email": "138027864+Sa-arash@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
